@@ -1,2 +1,3 @@
-WebifyPro: Next-Gen Blogging Platform
+WebifyPro: Next-Gen Blogging Platform <br />
+
 Frontend: TailwindCSS, React, NextJS, ESlint
